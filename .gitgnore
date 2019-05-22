@@ -1,2 +1,3 @@
 # 忽略.class的所有文件
 *.ipynb_checkpoints
+*/.ipynb_checkpoints
